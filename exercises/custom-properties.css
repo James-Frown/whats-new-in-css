@@ -3,6 +3,6 @@
 /* CSS variables should be named with alphanumeric characters, underscores, and dashes. Remember that they are case-sensitive. */
 
 :root {
-  
+  --text-base: #333;
 }
 
