@@ -5,9 +5,14 @@
 :root {
   --text-base: #333;
   --base-font-faimly: Halvetia, Ariel;
+  --alt-font-family: Gorgia, Serif;
 }
 
 body {
   color: var(--text-base);
   font-family: var(--base-font-family);
+}
+
+h1 {
+  font-family: var(--alt-font-family);  
 }
