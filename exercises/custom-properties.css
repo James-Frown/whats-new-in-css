@@ -7,7 +7,6 @@
   --base-font-faimly: Halvetia, Ariel;
   --alt-font-family: Gorgia, Serif;
 }
-
 body {
   color: var(--text-base);
   font-family: var(--base-font-family);
