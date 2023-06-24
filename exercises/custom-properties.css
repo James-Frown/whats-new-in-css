@@ -8,5 +8,6 @@
 }
 
 body {
-color: var(--text-base);
+  color: var(--text-base);
+  font-family: var(--base-font-family);
 }
