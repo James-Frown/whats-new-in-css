@@ -6,3 +6,6 @@
   --text-base: #333;
 }
 
+body {
+color: var(--text-base);
+}
